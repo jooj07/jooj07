@@ -1,9 +1,13 @@
 <h1 align='center'>
   Hi it's me João 👨‍💻!
 </h1>
+<p align='center'>
+  newbie/ Junior front-end dev
+</p>
 
-<h2 align='center'>Contact: </>
+<hr>
 <div align='center'>
+  <h2 align='center'>Contact: </>
     <br>
   <a href="https://www.linkedin.com/in/joão-vitor-hermenegildo-bastos-496269150/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,9 +21,6 @@
   </a>&nbsp;&nbsp;: joaovitor.h.bastos.07@gmail.com
  </div>
 
-<p align='center'>
-  newbie/ Junior front-end dev
-</p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jooj07&show_icons=true&theme=radical" width="350"></a>
