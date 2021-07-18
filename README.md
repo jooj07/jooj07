@@ -1,6 +1,15 @@
 <h1 align='center'>
-  Hi it's me João 👨‍💻
+  Hi it's me João 👨‍💻!
 </h1>
+
+<h2 align='center'>
+  <a href="https://www.linkedin.com/in/joão-vitor-hermenegildo-bastos-496269150/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp; 
+  <a href="https://api.whatsapp.com/send?phone=5569992638536">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ </h2>
 
 <p align='center'>
   newbie/ Junior front-end dev
@@ -10,12 +19,14 @@
 
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=jooj07&show_icons=true&theme=radical)
 
-<a href="https://www.linkedin.com/in/joão-vitor-hermenegildo-bastos-496269150/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp; 
-  <a href="https://api.whatsapp.com/send?phone=5569992638536">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;&nbsp;
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jooj07&show_icons=true&theme=radical" width="350"></a>
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooj07" width="350"></a>
+</p>
+
   
  <p align='center'>
    <a>
