@@ -16,11 +16,9 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
   <br>
-  <a href>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;: joaovitor.h.bastos.07@gmail.com
+  E-mail: joaovitor.h.bastos.07@gmail.com
  </div>
-
+<hr>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jooj07&show_icons=true&theme=radical" width="350"></a>
