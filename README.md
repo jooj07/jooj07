@@ -1,8 +1,8 @@
 <h1 align='center'>
-  Hi it's me João 👨‍💻!
+  João Vitor 👨‍💻!
 </h1>
 <p align='center'>
-  newbie/ Junior front-end dev
+  front-end dev
 </p>
 
 <hr>
