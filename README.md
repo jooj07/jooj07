@@ -1,5 +1,5 @@
 <h1 align='center'>
-  João Vitor 👨‍💻!
+  Olá, me chamo João Vitor 👨‍💻
 </h1>
 <p align='center'>
   front-end dev
