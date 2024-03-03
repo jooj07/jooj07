@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Olá, me chamo João Vitor 👨‍💻
+  Olá, me chamo João Vitor/ Hi my name is João Vitor 👨‍💻
 </h1>
 <p align='center'>
   front-end dev
@@ -7,7 +7,7 @@
 
 <hr>
 <div align='center'>
-  <h2 align='center'>Contact: </>
+  <h2 align='center'>Contato/ Find me: </>
     <br>
   <a href="https://www.linkedin.com/in/joão-vitor-hermenegildo-bastos-496269150/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
