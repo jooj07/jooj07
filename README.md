@@ -34,9 +34,7 @@
    <a>
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
   </a>&nbsp;&nbsp;
-   <a>
-    <img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"" />
-  </a>&nbsp;&nbsp;
+  
 </p>
  
    
