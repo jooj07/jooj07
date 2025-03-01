@@ -2,7 +2,7 @@
   Olá, me chamo João Vitor/ Hi my name is João Vitor 👨‍💻
 </h1>
 <p align='center'>
-  front-end dev
+  front-end dev formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Rondônia
 </p>
 
 <hr>
@@ -19,10 +19,6 @@
   E-mail: joaovitor.h.bastos.07@gmail.com
  </div>
 <hr>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jooj07&show_icons=true&theme=radical" width="350"></a>
-</p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooj07" width="350"></a>
