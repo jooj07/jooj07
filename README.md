@@ -23,18 +23,5 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooj07" width="350"></a>
 </p>
-
- <p align='center'>
-   <a>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>&nbsp;&nbsp;
-   <a>
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  </a>&nbsp;&nbsp;
-   <a>
-    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  
-</p>
  
    
